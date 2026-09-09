@@ -10,6 +10,10 @@ file = "mods/CBCmoreshells-1.1.5.jar"
 hash = "8a26b7b62444b69fd11880d428c6b9571896c71fc5cd50af402a23961cd17655"
 
 [[files]]
+file = "mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar"
+hash = "68036561cc5511766d54cc0deabc3fc3a5e68f9e3db2478f2574ec82b494374b"
+
+[[files]]
 file = "mods/addictives-3.1.4.jar"
 hash = "594492ebaa3225b2f787f7d70b0596447f4cd13ca67b862c950354f6be9dce40"
 
@@ -932,6 +936,10 @@ metafile = true
 file = "mods/playeranimator.pw.toml"
 hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
+
+[[files]]
+file = "mods/pleasurehorizons-0.6.2+1.21.1-neoforge.jar"
+hash = "15e3072c8532f84ad4116f54d19511f33a86f1cab11d03e41b9c2ca9d45e934f"
 
 [[files]]
 file = "mods/potentials.pw.toml"
