@@ -1,0 +1,13 @@
+name = "Chest Transporter - Relocated!"
+filename = "ChestTransporterRelocated-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/w4XIoQ9o/versions/Qw0esuDy/ChestTransporterRelocated-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "9d9fdd2d76b034ad92d29ef0c500b2f44bd44fba750d0ee62ff59e4f97787588f2b59b6f8e97841e4efb23e80b873369bafc999ce5920ee9ee9d38e7f0c8a41c"
+
+[update]
+[update.modrinth]
+mod-id = "w4XIoQ9o"
+version = "Qw0esuDy"

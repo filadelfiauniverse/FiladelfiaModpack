@@ -1,0 +1,13 @@
+name = "Big Tires"
+filename = "bigtires-0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MWW53CBR/versions/r6LTGDqH/bigtires-0.1.3.jar"
+hash-format = "sha512"
+hash = "b7fa20c3850cc0d19c63a8e730f9d8e9c7f1fb9e69c99acab402ce4ee221fd1a72ffd654cfa390f7460d845bea7e7030f3a7f00d45cd801e2a36de97ea9cd024"
+
+[update]
+[update.modrinth]
+mod-id = "MWW53CBR"
+version = "r6LTGDqH"

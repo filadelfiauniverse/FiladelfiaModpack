@@ -1,0 +1,13 @@
+name = "Fish 'N' Ships"
+filename = "[1.21.1-Neoforge] Fish N' Ships 1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dBB5hLnG/versions/EWSk9MLi/%5B1.21.1-Neoforge%5D%20Fish%20N%27%20Ships%201.0.0.jar"
+hash-format = "sha512"
+hash = "a13651412eaf8fddab89049df531b95855262b1f81b96cab0e5086745838ce331af754759c7ff1fbc607a431310660ad7d4a2fa032581dbe642739c498b2371b"
+
+[update]
+[update.modrinth]
+mod-id = "dBB5hLnG"
+version = "EWSk9MLi"

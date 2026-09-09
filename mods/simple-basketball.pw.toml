@@ -1,0 +1,13 @@
+name = "Simple Basketball"
+filename = "basketball-1.3.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/acidGymq/versions/kB5TGbbK/basketball-1.3.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "9e2bf031293a51ca7c07408442795c440d953e1a4bf3ba02de397cacc0d08d0046ba9e6399767a52ada3436b8a530bc731f582b4b58e0fae508017a63da6f7f0"
+
+[update]
+[update.modrinth]
+mod-id = "acidGymq"
+version = "kB5TGbbK"

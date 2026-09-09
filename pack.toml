@@ -1,0 +1,13 @@
+name = "Filadelfia Into the Villa-Verse"
+author = "BanaMC"
+version = "1.3.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "460c0b39def5bbeb92fcdf559ca96a2aa0099616d247424696dfc6fa3dcdf1b1"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"

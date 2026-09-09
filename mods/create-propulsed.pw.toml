@@ -1,0 +1,13 @@
+name = "Create Propulsed"
+filename = "propulsed-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kwSYm4gp/versions/nMryJbel/propulsed-0.1.1.jar"
+hash-format = "sha512"
+hash = "d4b859d2537546edcdb987aba54aee80a64f99b82af300f8fe3021699b02c572d641ffc297bd6bff10bcd9615509de54c917cc79d9ac9b7bf9e835b0548bb96a"
+
+[update]
+[update.modrinth]
+mod-id = "kwSYm4gp"
+version = "nMryJbel"

@@ -1,0 +1,13 @@
+name = "Block Pops"
+filename = "BlockPops - Neoforge - 1.21.1-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u1JjJR7q/versions/bhUJNVtc/BlockPops%20-%20Neoforge%20-%201.21.1-1.5.0.jar"
+hash-format = "sha512"
+hash = "84c369440db5231503752cb627dbe8fce8e93cd6f427b8e2bf677d17c4d3cf2eaabe925f084f883bc231a0fac1745ea2fffff6d5952ec369b5cab622bc2cd113"
+
+[update]
+[update.modrinth]
+mod-id = "u1JjJR7q"
+version = "bhUJNVtc"

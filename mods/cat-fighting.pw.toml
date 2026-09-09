@@ -1,0 +1,13 @@
+name = "Cat Fighting"
+filename = "catfighting-neoforge-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7cRQ1FCd/versions/UFiS0HUI/catfighting-neoforge-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "93ad376868d9ea332d9abf8b7f30b94f52fa94f6265ede1a71098ff45264df09d16384cb58c48ae2f5cdb0310d36de76b20990f6b01cfdaf37bfc81dc5360cdc"
+
+[update]
+[update.modrinth]
+mod-id = "7cRQ1FCd"
+version = "UFiS0HUI"

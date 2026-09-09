@@ -1,0 +1,13 @@
+name = "OrthoCamera (Unofficial NeoForge Port)"
+filename = "orthocamera-1.21.1-0.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/twW3MtGA/versions/UKZjnSlD/orthocamera-1.21.1-0.2.0.jar"
+hash-format = "sha512"
+hash = "4f985425ca41647d56b33d812f9a65e906bcf5d49b0ff3383ee3ba17dc3595b514582de0d5b7d4c0fcc4167b7289d1ce36125f2fa0c1c37c7e557d918fc3a09b"
+
+[update]
+[update.modrinth]
+mod-id = "twW3MtGA"
+version = "UKZjnSlD"

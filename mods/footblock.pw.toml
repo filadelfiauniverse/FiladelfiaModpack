@@ -1,0 +1,13 @@
+name = "Footblock"
+filename = "footblock-1.1.9-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86846d611b8379c6979529305187403bd80685a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6632683
+project-id = 1153256

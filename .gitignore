@@ -1,0 +1,6 @@
+# Ignorar backups, binarios y exports
+_original_jars/
+packwiz.exe
+*.mrpack
+.DS_Store
+Thumbs.db

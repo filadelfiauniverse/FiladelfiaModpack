@@ -1,0 +1,13 @@
+name = "Argentina's Delight Reborn"
+filename = "argentinasdelightreborn-0.0.23-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ICfxIYjs/versions/Bxnb63ep/argentinasdelightreborn-0.0.23-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "da0e70f0f9243f08975588c73b132740053d2c713d9f697a7fdb35719cbc99a6d68684869a7f85cf987d9895cff5dceaa83aa88f6af74adf6319ad412f621ab4"
+
+[update]
+[update.modrinth]
+mod-id = "ICfxIYjs"
+version = "Bxnb63ep"

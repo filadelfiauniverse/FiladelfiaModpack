@@ -1,0 +1,13 @@
+name = "MobSpawnController"
+filename = "mobspawncontroller-neoforge-1.21.1-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R9uLhV4F/versions/v3UGquGN/mobspawncontroller-neoforge-1.21.1-1.2.2.jar"
+hash-format = "sha512"
+hash = "59792a617e6fe7b0603dbb2e187bd8e6862bc955f9671dc2f1d6798a9fa8cdf8b406725cff3d183bfa0f1fb4cf31ae87a5f006a7e024a5a4b3644b81ea6e1d6b"
+
+[update]
+[update.modrinth]
+mod-id = "R9uLhV4F"
+version = "v3UGquGN"
