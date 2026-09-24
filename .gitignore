@@ -2,5 +2,6 @@
 _original_jars/
 packwiz.exe
 *.mrpack
+*.zip
 .DS_Store
 Thumbs.db

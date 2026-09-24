@@ -938,10 +938,6 @@ hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
-file = "mods/pleasurehorizons-0.6.2+1.21.1-neoforge.jar"
-hash = "15e3072c8532f84ad4116f54d19511f33a86f1cab11d03e41b9c2ca9d45e934f"
-
-[[files]]
 file = "mods/potentials.pw.toml"
 hash = "92446d159e74cb755c54cfffb6a3e5a0976ec4d203da360a327c6010daef3b51"
 metafile = true
