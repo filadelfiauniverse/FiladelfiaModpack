@@ -954,7 +954,7 @@ metafile = true
 
 [[files]]
 file = "mods/pleasurehorizons-0.6.2+1.21.1-neoforge.jar"
-hash = "2942755f5ce5288d54c38c7cd693ca4b0250410989cf7e25d512117da02e2a46"
+hash = "bd93ca5b6d3d877aa92d7b952c2f5a0298b5692f229ed84bb3a7c9e07536b488"
 
 [[files]]
 file = "mods/potentials.pw.toml"
