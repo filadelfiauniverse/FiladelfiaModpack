@@ -48,11 +48,6 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
-file = "mods/ardas-uncrafting-table.pw.toml"
-hash = "8b594550478fa507640429a3e2debfd7c85f78c42b22c9d11c494d7e38332da9"
-metafile = true
-
-[[files]]
 file = "mods/argentinas-delight.pw.toml"
 hash = "5a263bc5bd0628856feef8dbeca546084258fc7c9dba8b8b57514423dd5f6557"
 metafile = true
