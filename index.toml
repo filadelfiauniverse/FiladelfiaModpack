@@ -6,6 +6,10 @@ hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
 
 [[files]]
+file = "mods/Arda's Uncrafting Table 1.2 [NEOFORGE] [1.21.1].jar"
+hash = "0c82a219901642e124263fee0e17f37df1f1ac83e82dfa6ccf39adeabc741b8a"
+
+[[files]]
 file = "mods/CBCmoreshells-1.1.5.jar"
 hash = "8a26b7b62444b69fd11880d428c6b9571896c71fc5cd50af402a23961cd17655"
 
